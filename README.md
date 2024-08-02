@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Julia Oliveira 👋  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SdOJulia)](https://github.com/SdOJulia/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SdOJulia&show_icons=true&theme=radical)
 
 
