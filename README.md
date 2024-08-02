@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Julia Oliveira 👋  
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SdOJulia)](https://github.com/SdOJulia/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jubs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
