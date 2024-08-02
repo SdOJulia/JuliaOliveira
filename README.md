@@ -2,7 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SdOJulia&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dOJulia&show_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dOJulia&hide_progress=true)
   
 
 <div style="display: inline_block"><br>
